@@ -38,6 +38,7 @@ body {
 .fb-comments-header {
   padding: 15px 0;
   border-bottom: 1px solid #e9ebee;
+
 }
 
 .fb-comments-header span {
@@ -271,4 +272,16 @@ tr {
       font-weight: bold; 
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
+    }
+    .my-4 {
+      color: RED;
+      font-size: 55px;
+      text-decoration: underline;
+    }
+    .my-5 {
+      color: black;
+      font-size: 48px;
+    }
+      .topo1 {
+      text-align: center; 
     }
